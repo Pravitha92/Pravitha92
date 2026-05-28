@@ -1,6 +1,9 @@
 ## 👋Hi there, I am Pravitha!
 I have hands-on experience in Machine Learning, NLP, and Generative AI, including building NER models using BERT and RAG-based chatbots using LangChain and LLMs. 
 I enjoy working with Python, data processing, and creating AI solutions that solve real-world problems. I’m currently looking for entry-level/junior opportunities in Data Science, Machine Learning, or AI.
+## 📫 How to reach me: ...
+pravithanishant@gmail.com
+
 
 <!--
 **Pravitha92/Pravitha92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
